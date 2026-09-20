@@ -1,0 +1,6 @@
+{
+  "name": "Ace GPT AI - Test Paper Generator & Tutor LMS Admin",
+  "description": "Ace GPT AI - School Examination Paper Generator with textbook grounding, candidate-pool selection engine, 14-point Question Quality Scorecard, Question Depth Engine, and Senior Teacher Quality Gate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
